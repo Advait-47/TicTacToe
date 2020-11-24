@@ -1,0 +1,36 @@
+body{
+  text-align: center;
+  background-color: #222831;
+  font-family: 'Raleway', sans-serif;
+  color: #eeeeee;
+}
+
+.bttn{
+  width: 100px;
+  height: 100px;
+  margin:5px 3px;
+  font-size: 2.5rem;
+  background-color: #393e46;
+  color: #eeeeee;
+  border: solid;
+  border-width: 5px;
+  border-radius: 0;
+  border-color: #000000;
+}
+
+.head{
+  margin-top: 5%;
+  font-size: 3rem;
+}
+
+.container{
+  margin: 2% 0 2%;
+  padding: 5px;
+  background-color: #ffd369;
+  display: inline-block;
+}
+
+button:focus{
+  text-align: center;
+  /* do no shit */
+}
